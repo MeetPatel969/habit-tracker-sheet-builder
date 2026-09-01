@@ -1,0 +1,6 @@
+{
+  "name": "StreakSheet",
+  "description": "A web app to design and export printable monthly habit-tracking sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
